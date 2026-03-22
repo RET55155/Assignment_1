@@ -45,4 +45,5 @@ Task 10: GCD
 <img width="1907" height="856" alt="image" src="https://github.com/user-attachments/assets/c15d5e43-8bbb-4462-af77-efd685c39f67" />
 I used the Euclidean algorithm where GCD of a and b is the same as GCD of b and a mod b. It finishes when the second number becomes 0.
 
-ConclusionEach task was verified for edge cases. The project demonstrates a solid understanding of recursive depth, base cases, and how to replace iterative logic with recursive calls.
+Conclusion 
+Each task was verified for edge cases. The project demonstrates a solid understanding of recursive depth, base cases, and how to replace iterative logic with recursive calls.
